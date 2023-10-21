@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: black;
+    color: red;
+    height: 300px;
+    text-align: center;
+    font-size: 50px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    
+}
+nav {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+div {
+    border: solid 3px red;
+    width: 500px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+img {
+    widht: 500px;
+    border-radius: 10px;
+}
+
+figcaption {
+    color: red;
+    font-size: 30px;
+}
+
+section {
+    margin: 0px 350px
+    
+}
+main {
+    background-color: black;
+    
+}
